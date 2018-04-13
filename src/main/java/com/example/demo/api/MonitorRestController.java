@@ -8,7 +8,7 @@ public class MonitorRestController {
 	
 	@RequestMapping("/ping")
 	public String ping () {
-		return "Funcionando";
+		return "Funcionando2";
 	}
 
 }
